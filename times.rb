@@ -1,3 +1,3 @@
-4.times do
-    puts "Wingardium Leviosa"
+7.times do 
+  puts "I am doing the dishes left by my former friends."
 end
